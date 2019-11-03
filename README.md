@@ -18,7 +18,7 @@ In the GitHub two test scenarios can be found: <b>RegistrationWithUsedEmail</b> 
 <b>Test Objective:</b>
 The objective of this test case is to verify if it is possible to register using a previously used e-mail address on Trello website.
 
-The test contains a previously used registered e-mail: bilskitomaszz@gmail.com
+The test contains a previously used registered e-mail: bilskitomaszz@gmail.com that can be replaced in the lines 16 and 18 with any other previously registered email. I decided to hard coded the value so it is easy to execute the test.
 
 
 <b>Positivelogin</b>
@@ -26,4 +26,4 @@ The test contains a previously used registered e-mail: bilskitomaszz@gmail.com
 <b>Test Objective:</b>
 The objective of this test case is to verify the ability to log in using a previously used e-mail and password to the Trello website.
 
-The test contains a previously used registered e-mail: bilskitomaszz@gmail.com 
+The test contains a previously used registered e-mail: bilskitomaszz@gmail.com that can be replaced in the line 19 with any other previously registered email and in the line 22 with the corresponging to this email password. I decided to hard coded the values so it is easy to execute the test.
